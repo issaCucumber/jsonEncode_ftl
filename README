@@ -1,0 +1,5 @@
+commonUtils.ftl
+================
+
+written in FTL, 
+macro json_encode takes in an array and print out the json string
